@@ -1,6 +1,9 @@
 .title2{
     color: rgb(35, 87, 245);
 }
+.born{
+  font-weight: 900;
+}
 .img{
     width: 270px;
     height: 200px;
@@ -21,4 +24,14 @@ p {
   p {
     font-family: verdana;
     font-size: 20px;
+  }
+  .right{
+    box-sizing: border-box;
+    float: right;
+    width: 50%;
+  }
+  .left{
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
   }
